@@ -1,2 +1,2 @@
-streamlit
-Pillow
+streamlit==0.65.2
+Pillow==7.2.0
